@@ -1,6 +1,6 @@
 ## Hello
 
-I'm a junior developer from Russia.
+I'm a junior web developer from Russia.
 
 ### Languages and Tools:
 ![PHP](https://img.shields.io/badge/-PHP-202020?style=for-the-badge&logo=php)
