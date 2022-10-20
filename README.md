@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello
 
-<!--
-**shenntaro/shenntaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior developer from Russia.
 
-Here are some ideas to get you started:
+### Languages and Tools:
+![PHP](https://img.shields.io/badge/-PHP-202020?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-202020?style=for-the-badge&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-202020?style=for-the-badge&logo=bootstrap)
+![Slim](https://img.shields.io/badge/-Slim-202020?style=for-the-badge&logo=slim)
+![Twig](https://img.shields.io/badge/-Twig-202020?style=for-the-badge&logo=twig)
+![HTML](https://img.shields.io/badge/-HTML-202020?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-202020?style=for-the-badge&logo=css)
+![SCSS](https://img.shields.io/badge/-SCSS-202020?style=for-the-badge&logo=scss)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Сontact with me
+
+![telegram](https://img.shields.io/badge/-@shenntarodev-202020?style=for-the-badge&logo=telegram)
+![email](https://img.shields.io/badge/-shenntarowork@gmail.com-202020?style=for-the-badge&logo=gmail)
