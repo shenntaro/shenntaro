@@ -14,5 +14,5 @@ I'm a junior web developer from Russia.
 
 ### Сontact with me
 
-![telegram](https://img.shields.io/badge/-@shenntarodev-202020?style=for-the-badge&logo=telegram)
-![email](https://img.shields.io/badge/-shenntarowork@gmail.com-202020?style=for-the-badge&logo=gmail)
+![@shenntarodev](https://img.shields.io/badge/-@shenntarodev-202020?style=for-the-badge&logo=telegram)
+![shenntarowork@gmail.com](https://img.shields.io/badge/-shenntarowork@gmail.com-202020?style=for-the-badge&logo=gmail)
